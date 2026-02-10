@@ -12,3 +12,4 @@ __pycache__/
 notebook/faiss_index/
 .env
 .env
+.env
