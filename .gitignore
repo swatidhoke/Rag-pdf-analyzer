@@ -1,0 +1,12 @@
+# Ignore environment files
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore FAISS index files if too big (optional)
+notebook/faiss_index/
