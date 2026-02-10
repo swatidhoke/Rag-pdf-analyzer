@@ -10,3 +10,4 @@ __pycache__/
 
 # Ignore FAISS index files if too big (optional)
 notebook/faiss_index/
+.env
